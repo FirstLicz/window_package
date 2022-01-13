@@ -1,5 +1,5 @@
 FROM centos:7
-LABEL maintainer licunzhen@bwda.net
+LABEL maintainer @139.com
 ENV LANG C.UTF-8
 
 USER root
